@@ -2,20 +2,18 @@
 
 ## What if you never had to work again in your life?
 
-That doesn't mean you wouldn't. . . but what if it was your choice:
+That doesn't mean you wouldn't. . . but what if it was **your choice**:
 
-* When you worked
-* How long you worked
-* Who you worked for
+* When you worked?
+* How long you worked?
+* Who you worked for?
 
-??
-
-Passive Cash Flow (money that comes in every month no matter what) is the answer.
+## Passive Cash Flow (money that comes in every month no matter what) is the answer.
 
 Want to start working towards that goal? Use this portolio calculator to figure 
 out how long until you get there.
 
-Step 1:
+## Step 1:
 
 Identify how much passive cash flow you actually need to maintain the lifestyle you want.
 
@@ -28,7 +26,7 @@ Identify how much passive cash flow you actually need to maintain the lifestyle 
 
 OR if you already know the answer then just enter it.
 
-Step 2:
+## Step 2:
 
 Enter your:
 
