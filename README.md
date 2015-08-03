@@ -1,12 +1,12 @@
 # portfolio_calculator
 
-What if you never had to work again in your life?
+## What if you never had to work again in your life?
 
 That doesn't mean you wouldn't. . . but what if it was your choice:
 
-When you worked
-How long you worked
-Who you worked for
+*When you worked
+*How long you worked
+*Who you worked for
 
 ??
 
@@ -18,6 +18,7 @@ out how long until you get there.
 Step 1:
 
 Identify how much passive cash flow you actually need to maintain the lifestyle you want.
+
 1) Mortgage/monthly rent
 2) Transportation
 3) Food
@@ -30,9 +31,10 @@ OR if you already know the answer then just enter it.
 Step 2:
 
 Enter your:
-current_portfolio
-time_horizon (in years)
-monthly_contribution
+
+*current_portfolio
+*time_horizon (in years)
+*monthly_contribution
 
 This will generate how large your portfolio should be at that time.
 
