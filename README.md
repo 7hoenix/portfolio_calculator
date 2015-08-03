@@ -4,9 +4,9 @@
 
 That doesn't mean you wouldn't. . . but what if it was your choice:
 
-*When you worked
-*How long you worked
-*Who you worked for
+* When you worked
+* How long you worked
+* Who you worked for
 
 ??
 
@@ -19,12 +19,12 @@ Step 1:
 
 Identify how much passive cash flow you actually need to maintain the lifestyle you want.
 
-1) Mortgage/monthly rent
-2) Transportation
-3) Food
-4) Clothing
-5) Entertainment
-6) Other
+1. Mortgage/monthly rent
+2. Transportation
+3. Food
+4. Clothing
+5. Entertainment
+6. Other
 
 OR if you already know the answer then just enter it.
 
@@ -32,9 +32,9 @@ Step 2:
 
 Enter your:
 
-*current_portfolio
-*time_horizon (in years)
-*monthly_contribution
+* current_portfolio
+* time_horizon (in years)
+* monthly_contribution
 
 This will generate how large your portfolio should be at that time.
 
