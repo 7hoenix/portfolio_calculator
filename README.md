@@ -42,5 +42,3 @@ Are you on track?
 Do you need to make changes? (the easiest and most lucrative thing to change is how much you contribute each month).
 
 Make adjustments to any/all of your assumptions until you find a plan that works for you.
-
-To freedom!
